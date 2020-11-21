@@ -8,15 +8,21 @@
   * CSS3 -> [Sass, Stylus]
   * JavaScript -> [Vanilla, JQuery, React, Redux, Context, NextJs]
   
-### Backend Stack   ### Other Skills
+### Backend Stack
 
-  * .Net            * Git
-  * PHP             * Photoshop
-  * Node            * Heroku
+  * .Net           
+  * PHP             
+  * Node           
   * Express
   * MySQL
   * SQLServer
   * MongoDB
+  
+### Other Skills
+
+  * Photoshop
+  * Git
+  * Heroku
   
   
 ![Alt text](https://github.com/IsmaelJDz/IsmaelJDz/blob/master/FullstackFinish.png?raw=true "Optional Title") 
