@@ -24,7 +24,7 @@
   * Git
   * Heroku
   
-![Alt text](/relative/path/to/FullstackFinish.jpg?raw=true "Optional Title") 
+![Alt text](https://github.com/IsmaelJDz/IsmaelJDz/blob/master/FullstackFinish.png?raw=true "Optional Title") 
   
 <!--
 **IsmaelJDz/IsmaelJDz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
