@@ -1,5 +1,29 @@
 ### Hi there 👋  Fullstack JS profile under construction. 🛠
 
+### - 🔭 I’m currently working like frontend developer but also I've worked on backend side
+
+### Frontend Stack
+
+  * HTML5
+  * CSS3 -> [Sass, Stylus]
+  * JavaScript -> [Vanilla, JQuery, React, Redux, Context, NextJs]
+  
+### Backend Stack
+
+  * .Net 
+  * PHP
+  * Node
+  * Express
+  * MySQL
+  * SQLServer
+  * MongoDB
+  
+### Other Skills
+
+  * Photoshop
+  * Git
+  * Heroku
+  
 <!--
 **IsmaelJDz/IsmaelJDz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
