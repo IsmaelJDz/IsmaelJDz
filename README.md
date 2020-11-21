@@ -1,4 +1,4 @@
-### Hi there 👋  Fullstack JS profile under construction. 🛠
+### Hi there 👋 I'm Ismael and I'm Fullstack JS
 
 ### - 🔭 I’m currently working like frontend developer but also I've worked on backend side
 
@@ -8,21 +8,16 @@
   * CSS3 -> [Sass, Stylus]
   * JavaScript -> [Vanilla, JQuery, React, Redux, Context, NextJs]
   
-### Backend Stack
+### Backend Stack   ### Other Skills
 
-  * .Net 
-  * PHP
-  * Node
+  * .Net            * Git
+  * PHP             * Photoshop
+  * Node            * Heroku
   * Express
   * MySQL
   * SQLServer
   * MongoDB
   
-### Other Skills
-
-  * Photoshop
-  * Git
-  * Heroku
   
 ![Alt text](https://github.com/IsmaelJDz/IsmaelJDz/blob/master/FullstackFinish.png?raw=true "Optional Title") 
   
